@@ -90,17 +90,83 @@
 
 ---
 
-## 🤖 AI 使用透明机制（特色规则）
+# 🧑‍💻 Sui Vibe Hackathon
 
-* 允许、鼓励使用 AI 工具
-* **必须披露：**
+## Participation Requirements
 
-  * 使用的 AI 工具
-  * 使用的模型
-  * 核心 Prompt（提示词）
+所有参赛项目 **必须同时满足以下要求**，否则将被视为无效参赛。
 
-我们相信：
-**Prompt 本身，就是 Builder 的能力。**
+---
+
+### 1️⃣ Project Start Time
+
+* 项目 **必须在 2026 年 1 月 27 日（含）之后开始创建**
+* 不允许提交：
+
+  * 既有项目的延展版本
+  * 历史代码的简单迁移或包装
+* 评审有权要求提供代码提交记录以验证时间线
+
+---
+
+### 2️⃣ Move Language Version
+
+* 智能合约 **必须使用 Move 最新语法**
+* **Move 版本要求：2024**
+* 不符合当前 Move 2024 规范的合约将不予评审
+
+---
+
+### 3️⃣ Official SDK Requirement
+
+* 项目 **必须使用 Sui 官方 SDK 的最新版本**
+* 包括但不限于：
+
+  * Sui SDK（TypeScript / Rust 等）
+* 不得使用已弃用（deprecated）的官方接口
+
+---
+
+### 4️⃣ Runnable Product & Live Website
+
+* 项目 **必须完整可运行**
+* 必须提供：
+
+  * 可访问的网站（Web App / dApp）
+  * 能展示核心功能的真实 Demo
+* 仅代码、仅合约、仅 PPT 的项目 **不被接受**
+
+---
+
+### 5️⃣ Open Source Requirement
+
+* 项目 **代码必须完全开源**
+* 需提供：
+
+  * 公共 GitHub / GitLab 仓库
+* 代码应至少包含：
+
+  * 智能合约代码
+  * 前端 / 后端核心逻辑
+  * 清晰的 README（部署与运行说明）
+
+---
+
+### 6️⃣ AI Usage Disclosure (Mandatory)
+
+如项目在任何阶段使用了 AI 工具（包括但不限于代码生成、内容生成、Agent、自动化等），**必须完整披露**：
+
+* 使用的 **AI 工具名称**
+
+  * 例如：ChatGPT、Claude、Cursor、Copilot 等
+* 使用的 **模型名称 / 版本**
+* **实际喂给 AI 的关键 Prompt（提示词）原文**
+
+  * 可提供多条
+  * 允许对敏感信息进行脱敏处理
+
+未披露 AI 使用或虚假披露的项目，将 **直接取消参赛或获奖资格**。
+
 
 ---
 
