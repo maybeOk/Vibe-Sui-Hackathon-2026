@@ -1,107 +1,105 @@
-# 🚀 Sui Vibe 黑客松
+# 🚀 Sui Vibe Hackathon
 
 **Build on Sui · Build the Vibe**
 
 ---
-*  主办方: HOH * Sui 
-*  赞助方: Cetus, Bucket
+* Organizer: HOH * Sui
+* Sponsors: Cetus, Bucket
 ---
 
-## 🌊 活动简介
+## 🌊 Overview
 
-**Sui Vibe 黑客松** 是一场面向全球开发者的 Sui 生态共创活动。
-我们鼓励 Builder 基于 **Sui 公链与 Move 语言**，构建真正 **高性能、好体验、可落地** 的 Web3 应用。
+**Sui Vibe Hackathon** is a global co-creation event for the Sui ecosystem.
+We encourage builders to create truly **high-performance, great-experience, production-ready** Web3 apps based on the **Sui blockchain and the Move language**.
 
-这不仅是一场写代码的比赛，
-更是一场关于 **产品、创意与 Vibe** 的共创实验。
-
----
-## 🎯 时间
-
-* 2026年1月26-2月12号
-* 2月14号公布结果
+This is not only a coding competition,
+but also a co-creation experiment about **product, creativity, and Vibe**.
 
 ---
+## 🎯 Timeline
 
-## 🎯 总奖金 4台Mac Mini
+* January 26 - February 12, 2026
+* Results announced on February 14
 
 ---
 
-## 报名链接
+## 🎯 Total Prizes: 4 Mac Minis
+
+---
+
+## Registration Link
 
 - [deepsurge](https://www.deepsurge.xyz/dashboard)
 
-选择 [Vibe Sui Spring Fest 2026]
+Select [Vibe Sui Spring Fest 2026]
 
 ---
 
+## 🎯 Goals
 
-
-## 🎯 活动目标
-
-* 推动 Sui 生态高质量应用的诞生
-* 激发开发者对 Move 与 Object Model 的深度探索
-* 孵化具备长期潜力的 Web3 项目
-* 连接开发者、生态项目、投资方与社区资源
+* Drive the creation of high-quality Sui ecosystem applications
+* Inspire deeper exploration of Move and the Object Model
+* Incubate Web3 projects with long-term potential
+* Connect developers, ecosystem projects, investors, and community resources
 
 ---
 
-## 👥 参赛对象
+## 👥 Who Can Join
 
-* Web3 / Web2 开发者
-* 区块链创业者、产品经理
-* AI / 前端 / 设计 / 数据背景从业者
-* 对 Sui 与 Move 感兴趣的 Builder
-* 没任何编程经验的想体验开发的人员
+* Web3 / Web2 developers
+* Blockchain founders, product managers
+* Professionals with AI / frontend / design / data backgrounds
+* Builders interested in Sui and Move
+* People with no programming experience who want to try building
 
-支持 **个人或团队参赛（1–5 人）**，全球开放。
+Supports **individuals or teams (1–5 people)**, open globally.
 
 ---
 
-## 🧩 赛道方向（Tracks）
+## 🧩 Tracks
 
 ### **Cetus** Mac mini M4 * 1
-- 需要赋能Cetus或者集成 聚合器 或者 SDK
+- Must empower Cetus or integrate the aggregator or SDK
 - https://github.com/CetusProtocol/aggregator
 - https://github.com/CetusProtocol/cetus-sdk-v2
 
 ### **stablelayer** ac mini M4 * 1
-需要赋能stablelayer或者SDK
+Must empower stablelayer or its SDK
 - https://docs.stablelayer.site/
 - https://github.com/StableLayer/stable-layer-sdk
 
-### **Sui技术栈** Mac mini M4 * 2
-方向不限，只要你在 **Sui 上构建**，
-并且 **真的有 Vibe**。
+### **Sui Tech Stack** Mac mini M4 * 2
+No restrictions on direction, as long as you **build on Sui**
+and **truly have Vibe**.
 
 ---
 
-**赛程安排：**
+**Schedule:**
 
-* Kickoff & 技术 Workshop
-* 开发期 + Mentor Office Hour
-* 项目提交
-* Demo Day & 评审颁奖
-
----
-
-## 🏆 奖励与支持
-
-* 💰 现金奖金池
-* 🌱 Sui 生态项目 & Sponsor 资源支持
-* 🚀 Grant / 孵化 / 投资对接机会
-* 📣 官方渠道与社区曝光
-
-优秀项目将获得 **长期生态支持**。
+* Kickoff & Technical Workshop
+* Development period + Mentor Office Hours
+* Project submission
+* Demo Day & judging awards
 
 ---
 
-## 🧠 评审重点
+## 🏆 Rewards & Support
 
-* 创新性与完成度
-* Sui / Move 使用深度
-* 用户体验与 Demo 表现
-* 实际应用与成长潜力
+* 💰 Cash prize pool
+* 🌱 Sui ecosystem projects & sponsor resources
+* 🚀 Grants / incubation / investment connections
+* 📣 Official channels and community exposure
+
+Outstanding projects will receive **long-term ecosystem support**.
+
+---
+
+## 🧠 Judging Criteria
+
+* Innovation and completeness
+* Depth of Sui / Move usage
+* User experience and demo performance
+* Real-world applicability and growth potential
 
 ---
 
@@ -109,95 +107,94 @@
 
 ## Participation Requirements
 
-所有参赛项目 **必须同时满足以下要求**，否则将被视为无效参赛。
+All submissions **must meet all the following requirements**, otherwise they will be considered invalid.
 
 ---
 
 ### 1️⃣ Project Start Time
 
-* 项目 **必须在 2026 年 1 月 27 日（含）之后开始创建**
-* 不允许提交：
+* Projects **must be created on or after January 27, 2026**
+* Not allowed:
 
-  * 既有项目的延展版本
-  * 历史代码的简单迁移或包装
-* 评审有权要求提供代码提交记录以验证时间线
+  * Extended versions of existing projects
+  * Simple migrations or wrappers of historical code
+* Judges may request commit history to verify the timeline
 
 ---
 
 ### 2️⃣ Move Language Version
 
-* 智能合约 **必须使用 Move 最新语法**
-* **Move 版本要求：2024**
-* 不符合当前 Move 2024 规范的合约将不予评审
+* Smart contracts **must use the latest Move syntax**
+* **Move version requirement: 2024**
+* Contracts that do not comply with the current Move 2024 specification will not be reviewed
 
 ---
 
 ### 3️⃣ Official SDK Requirement
 
-* 项目 **必须使用 Sui 官方 SDK 的最新版本**
-* 包括但不限于：
+* Projects **must use the latest version of the official Sui SDK**
+* Including but not limited to:
 
-  * Sui SDK（TypeScript / Rust 等）
-* 不得使用已弃用（deprecated）的官方接口
+  * Sui SDK (TypeScript / Rust, etc.)
+* Deprecated official interfaces must not be used
 
 ---
 
 ### 4️⃣ Runnable Product & Live Website
 
-* 项目 **必须完整可运行**
-* 必须提供：
+* Projects **must be fully runnable**
+* Must provide:
 
-  * 可访问的网站（Web App / dApp）
-  * 能展示核心功能的真实 Demo
-* 仅代码、仅合约、仅 PPT 的项目 **不被接受**
+  * An accessible website (Web App / dApp)
+  * A real demo that showcases core functionality
+* Projects with only code, only contracts, or only PPT **will not be accepted**
 
 ---
 
 ### 5️⃣ Open Source Requirement
 
-* 项目 **代码必须完全开源**
-* 需提供：
+* Project **code must be fully open source**
+* Must provide:
 
-  * 公共 GitHub / GitLab 仓库
-* 代码应至少包含：
+  * A public GitHub / GitLab repository
+* Code should include at least:
 
-  * 智能合约代码
-  * 前端 / 后端核心逻辑
-  * 清晰的 README（部署与运行说明）
+  * Smart contract code
+  * Frontend / backend core logic
+  * A clear README (deployment and run instructions)
 
 ---
 
 ### 6️⃣ AI Usage Disclosure (Mandatory)
 
-如项目在任何阶段使用了 AI 工具（包括但不限于代码生成、内容生成、Agent、自动化等），**必须完整披露**：
+If AI tools were used at any stage (including but not limited to code generation, content generation, agents, automation, etc.), **full disclosure is required**:
 
-* 使用的 **AI 工具名称**
+* **AI tool names** used
 
-  * 例如：ChatGPT、Claude、Cursor、Copilot 等
-* 使用的 **模型名称 / 版本**
-* **实际喂给 AI 的关键 Prompt（提示词）原文**
+  * Example: ChatGPT, Claude, Cursor, Copilot, etc.
+* **Model names / versions**
+* **Exact prompts** given to the AI
 
-  * 可提供多条
-  * 允许对敏感信息进行脱敏处理
+  * Multiple prompts are allowed
+  * Sensitive information may be redacted
 
-未披露 AI 使用或虚假披露的项目，将 **直接取消参赛或获奖资格**。
-
-
----
-
-## 🌟 为什么参加 Sui Vibe 黑客松？
-
-* 写 **真正有用的 Web3 应用**
-* 深度理解 **Sui 的技术优势**
-* 结识全球优秀 Builder
-* 拿到 **生态级资源与曝光**
+Projects that do not disclose AI usage or provide false disclosure will be **disqualified from participation or awards**.
 
 ---
 
-## 📌 报名方式
+## 🌟 Why Join Sui Vibe Hackathon?
 
-* 报名入口：即将开放
-* 参赛名额有限，先到先得
+* Build **truly useful Web3 applications**
+* Deeply understand **Sui's technical advantages**
+* Meet outstanding builders from around the world
+* Gain **ecosystem-level resources and exposure**
+
+---
+
+## 📌 How to Register
+
+* Registration entry: [register](https://www.deepsurge.xyz/hackathons/97edf6fa-568f-4227-bb80-750d9b6dc17c/register)
+* Limited slots, first come first served
 
 👉 **Code Fast · Ship Real · Feel the Vibe**
 
